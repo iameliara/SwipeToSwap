@@ -1,0 +1,87 @@
+name: swipetoswap
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.4+3
+  universal_io: ^2.0.4
+  sqflite: ^2.0.3+1
+  lints: ^4.0.0
+  url_launcher: ^6.3.0
+  carousel_slider: ^4.2.1
+  gif: ^2.3.0
+  path: ^1.9.0
+  dropdown_search: ^5.0.6
+  share_plus: ^9.0.0
+
+  # Add other dependencies here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/photocard_bts.jpeg
+    - assets/sepatu_adidas.jpeg
+    - assets/iphone.jpeg
+    - assets/kursi_pink.jpeg
+    - assets/buku_bridgerton.jpeg
+    - assets/dyson_straightener.jpeg
+    - assets/logo-stw.png
+    - assets/searching-stw.png
+    - assets/satu-stw.png
+    - assets/dua-stw.png
+    - assets/tiga-stw.png
+    - assets/empat-stw.png
+    - assets/gitar_acoustic.jpg 
+    - assets/kamera_canon.jpg
+    - assets/sepeda_gunung.jpg
+    - assets/tracking.jpg
+    - assets/logo-stw-2.png
+    - assets/helpdesk.png
+    - assets/details.png
+    - assets/aksesoris.png
+    - assets/alat_tulis.png
+    - assets/elektronik.png
+    - assets/furnitur.png
+    - assets/gadget.png
+    - assets/hobi.png
+    - assets/kecantikan.png
+    - assets/makanan.png
+    - assets/olahraga.png
+    - assets/pakaian.png
+    - assets/develop.png
+    - assets/image1.jpg 
+    - assets/image2.jpg 
+    - assets/image3.jpg 
+    - assets/image4.jpg 
+    - assets/image5.jpg 
+    - assets/login.png
+    - assets/amel1.png
+    - assets/ammor2.jpg
+    - assets/sapardi.jpg
+    - assets/action_figures.jpg
+    - assets/board_games.jpg
+    - assets/knitting_kit.jpeg
+    - assets/lego_sets.jpeg
+    - assets/model_kits.jpeg
+    - assets/paint_by_numbers.jpg
+    - assets/puzzle.jpg
+    - assets/rc_cars.jpg
+    - assets/stamps_collection.jpeg
+    - assets/mie_instan.jpg
